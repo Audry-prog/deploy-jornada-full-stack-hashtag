@@ -57,7 +57,7 @@ Isso abrirá o projeto no seu navegador, geralmente acessando http://localhost:3
 
 ## Print da Tela do Projeto:  
 
-![Print da Tela do Projeto](front-end/public/imagens/print-tela-spotify-jornada-full-stack.png)
+![Print da Tela do Projeto](front-end/public/images/print-tela-spotify-jornada-full-stack.png)
 
 ## 📜 Licença
 
