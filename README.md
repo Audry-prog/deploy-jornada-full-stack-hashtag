@@ -32,17 +32,14 @@ Context API ou Hooks (useState, useEffect, etc.) → Gerenciamento de estado e l
    ```
 2. Acesse a pasta **front-end** do projeto e crie os arquivos estáticos de produção:
    ```sh
-   npm run build
+   npm run dev
    ```
-3. Acesse agora a raíz do projeto **Deploy Jornada Full STack** e construa o empacotando dos arquivos necessários para servir o front-end e back-end juntos:
+3. Acesse a pasta **back-end** e inicie o servidor:
    ```sh
-   npm run build
+   node ./api/server.js
    ```
-4. Inicie o servidor de desenvolvimento:
-   ```sh
-   npm run start
-   ```
-Isso abrirá o projeto no seu navegador, geralmente acessando http://localhost:3001.
+Observe que será necessário rodar em 2 terminais separados, o back e o front.
+Isso abrirá o projeto no seu navegador, geralmente acessando http://localhost:5173.
 
 ## 📢 Funcionalidades
 
